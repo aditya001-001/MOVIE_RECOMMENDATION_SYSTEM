@@ -46,35 +46,7 @@ Edit
 ```bash
 git clone https://github.com/your-username/movie-recommender.git
 cd movie-recommender
-### 2. Install the dependencies
-```bash
-Copy
-Edit
-pip install -r requirements.txt
-If you don’t have requirements.txt, create it:
 
-```bash
-Copy
-Edit
-pip freeze > requirements.txt
-### 3. Run the app
-```bash
-Copy
-Edit
-streamlit run app.py
-🖼️ Example
-Select a movie like "Avatar" and get 5 similar movies along with their posters.
-
-🌐 Live Demo
-(Optional — include link if hosted on Streamlit Cloud)
-🔗 View Live App
-
-⚠️ Notes
-Requires an internet connection to fetch posters from TMDb.
-
-If the poster fails to load, a placeholder image is displayed.
-
-TMDb API key is used directly — consider securing it for production use.
 
 📜 License
 This project is licensed under the MIT License. Feel free to use and modify it.
