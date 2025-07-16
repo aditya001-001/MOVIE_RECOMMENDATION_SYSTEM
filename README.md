@@ -55,7 +55,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Notes:
+### Notes:
+
   1.Requires an internet connection to fetch posters from TMDb.
   
   2.In case of API timeout or failure, placeholder images are shown.
