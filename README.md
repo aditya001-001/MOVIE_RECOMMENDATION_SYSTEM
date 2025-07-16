@@ -45,7 +45,7 @@ Edit
 git clone https://github.com/your-username/movie-recommender.git
 ```
 
-###2. Install the dependencies
+### 2. Install the dependencies
 ```bash
 pip install -r requirements.txt
 ```
