@@ -25,5 +25,48 @@ This is a content-based movie recommendation system built using **Python**, **St
 ---
 
 ## 📁 Project Structure
+```
+📦 movie-recommender/
+├── app.py # Main Streamlit app
+├── movie_dict.pkl # Movie metadata (title, ID)
+├── similarity.pkl # Precomputed similarity matrix
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies
+```
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/movie-recommender.git
+cd movie-recommender
+```
+### 2. Install the dependencies
+```
+pip install -r requirements.txt
+```
+
+### 3. Run the app
+```
+streamlit run app.py
+```
+## 🖼️ Example
+Select a movie like "Inception", and the app will show 5 similar movies with their posters.
+
+## ⚠️ Notes:
+
+  - Requires an internet connection to fetch posters from TMDb.
+
+  - In case of API timeout or failure, placeholder images are shown.
+
+  - TMDb API key is used directly in the code for simplicity — consider hiding it using environment variables for production.
+
+## 📜 License
+This project is licensed under the MIT License. Feel free to use, modify, and share it.
+
+## 🤝 Contributing
+Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
 
 
