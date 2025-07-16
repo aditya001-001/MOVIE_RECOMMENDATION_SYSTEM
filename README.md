@@ -46,7 +46,7 @@ Edit
 ```bash
 git clone https://github.com/your-username/movie-recommender.git
 cd movie-recommender
-2. Install the dependencies
+### 2. Install the dependencies
 ```bash
 Copy
 Edit
@@ -57,7 +57,7 @@ If you don’t have requirements.txt, create it:
 Copy
 Edit
 pip freeze > requirements.txt
-3. Run the app
+### 3. Run the app
 ```bash
 Copy
 Edit
