@@ -45,11 +45,4 @@ Edit
 
 ```bash
 git clone https://github.com/your-username/movie-recommender.git
-cd movie-recommender
 
-
-📜 License
-This project is licensed under the MIT License. Feel free to use and modify it.
-
-🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first.
