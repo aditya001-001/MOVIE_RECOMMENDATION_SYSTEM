@@ -63,9 +63,9 @@ streamlit run app.py
   
   3.TMDb API key is used directly in the code for simplicity — consider hiding it using environment variables for production.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. Feel free to use, modify, and share it.
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
 
