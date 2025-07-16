@@ -37,12 +37,16 @@ yaml
 Copy
 Edit
 
----
-
-## 🚀 Getting Started
+---- Getting Started
 
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/movie-recommender.git
+```
+
+###2. Install the dependencies
+```bash
+pip install -r requirements.txt
+```
 
