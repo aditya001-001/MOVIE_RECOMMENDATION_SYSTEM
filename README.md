@@ -25,7 +25,7 @@ This is a content-based movie recommendation system built using **Python**, **St
 ---
 
 ## 📁 Project Structure
-
+```
 📦 movie-recommender/
 ├── app.py # Main Streamlit app
 ├── movie_dict.pkl # Movie metadata (title, ID)
@@ -33,9 +33,7 @@ This is a content-based movie recommendation system built using **Python**, **St
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies (optional)
 
-yaml
-Copy
-Edit
+```
 
 ---- Getting Started
 
